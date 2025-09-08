@@ -4,7 +4,7 @@
 2. Koulutus
 3. Tutkinto
 [title] https://github.com/Miinyg/Miika-Cent
-![alt text] https://cdn.pixabay.com/photo/2025/08/11/07/18/nurturing-swan-9767495_1280.jpg
+![alt text](https://cdn.pixabay.com/photo/2025/08/11/07/18/nurturing-swan-9767495_1280.jpg)
 | Toivon | Toimivan |
 |--------|----------|
 | Mahdollisesti| Luulisin |
@@ -16,4 +16,3 @@
 }
 ```
 > "Dont count the days, make the days count"
-    
