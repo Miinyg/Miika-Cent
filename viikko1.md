@@ -13,9 +13,9 @@
 | Mahdollisesti | Luulisin | Ehkäpä |
 ```
 {
-    "firstName": "Miika
-    "lastName": "Nygard
-    "age": 28
+    "firstName": "Miika"
+    "lastName": "Nygard"
+    "age": "28"
 }
 ```
 ---
